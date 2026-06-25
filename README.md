@@ -1,2 +1,1 @@
-# sec1-code
-Desafio CODE 2026.2
+Durante o desenvolvimento deste projeto, utilizei o Claude AI como ferramenta de apoio para esclarecer dúvidas pontuais relacionadas ao uso do GitHub, organização do repositório e versionamento do código. A identificação e análise das vulnerabilidades foram realizadas com base em minhas anotações pessoais e experiências adquiridas em projetos anteriores presentes no meu portfólio de aplicações. As conclusões, explorações e recomendações de segurança documentadas neste relatório foram desenvolvidas a partir da análise prática do ambiente auditado.
